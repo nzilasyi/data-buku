@@ -1,0 +1,16 @@
+nama database : data_buku
+
+nama tabel :
+buku :  id(A.I),
+	judul_buku varchar(255),
+ 	kategori varchar(255),
+ 	pengarang varchar(255), 
+ 	tahun_terbit INT (255),
+	penerbit varchar(255),
+	harga INT (255).
+
+nama tabel : 
+users : id(A.I),
+	username varchar(255),
+	email varchar(255),
+	password varchar(255).
